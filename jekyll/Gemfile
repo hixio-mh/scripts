@@ -1,4 +1,4 @@
 source "https://rubygems.org"
-gem "jekyll-import"
+gem "jekyll-import", ">= 0.17.1"
 gem "kramdown"
 # gem "byebug"
